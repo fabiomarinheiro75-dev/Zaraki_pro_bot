@@ -1,10 +1,10 @@
 //=====🏅 ᴍᴀʟᴠɪɴ  xᴅ🔥====
 
 module.exports = {
-  BOT_NAME: 'ᴍᴀʟᴠɪɴ xᴅ', // ur bot name
-  OWNER_NAME: 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ', //your name
-  OWNER_NUMBER: '263714757857', // add your phone number
-  SESSION_ID: '', // add your session ID
+  BOT_NAME: 'ZARAKI_BOT', // ur bot name
+  OWNER_NAME: '@kurosaki', //your name
+  OWNER_NUMBER: '11918648657', // add your phone number
+  SESSION_ID: '001', // add your session ID
   MODE: "public", // public or private
-  TIMEZONE: 'Africa/Harare' // ur timezone
+  TIMEZONE: 'Brasil/natal' // ur timezone
 };
